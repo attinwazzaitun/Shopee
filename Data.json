@@ -1,52 +1,63 @@
 {
-  "tambah_kedai": {
-    "maklumat_asas": {
-      "nama_kedai": "Restoran Warisan Melayu",
-      "pemilik": "Ahmad bin Abdullah",
-      "kategori": "Masakan Tradisional Melayu",
-      "telefon": "+20 123 456 7890",
-      "e-mel": "info@warisanmelayuegypt.com"
+    "order_id": "TM-445197",
+    "platform": "Talabat Mart",
+    "order_timestamp": "2026-08-09T14:26:03.347Z",
+    "customer": {
+        "full_name": "Ahmad Fauzi",
+        "phone_number": "+6281234567890",
+        "delivery_address": "Jl. Sudirman No. 45, Jakarta Selatan"
     },
-    "lokasi": {
-      "bandar": "Kaherah",
-      "alamat_penuh": "No. 15, Jalan 9, Maadi, Kaherah, Mesir",
-      "koordinat": {
-        "latitud": 29.9602,
-        "longitud": 31.2569
-      }
+    "payment": {
+        "method": "Credit Card",
+        "status": "Pending"
     },
-    "operasi": {
-      "hari_bekerja": "Isnin - Ahad",
-      "waktu_buka": "11:00 PG",
-      "waktu_tutup": "10:00 MLM",
-      "status_halal": true
-    },
-    "menu_utama": [
-      {
-        "id_menu": "M001",
-        "nama_hidangan": "Nasi Lemak Special",
-        "harga_egp": 120.00,
-        "deskripsi": "Nasi lemak santan harum dihidangkan bersama sambal bilis, telur rebus, kacang, timun, dan ayam goreng berempah."
-      },
-      {
-        "id_menu": "M002",
-        "nama_hidangan": "Beef Rendang",
-        "harga_egp": 150.00,
-        "deskripsi": "Daging empuk yang dimasak perlahan dengan santan dan rempah ratus tradisional."
-      },
-      {
-        "id_menu": "M003",
-        "nama_hidangan": "Mee Goreng Mamak",
-        "harga_egp": 95.00,
-        "deskripsi": "Mee kuning digoreng bersama tauhu, kentang, tauge, dan sos istimewa."
-      }
+    "order_items": [
+        {
+            "product_id": "P002",
+            "product_name": "Roti Tawar Gandum",
+            "unit_price": 18000,
+            "quantity": 1,
+            "total_price": 18000
+        },
+        {
+            "product_id": "P004",
+            "product_name": "Minyak Goreng 2L",
+            "unit_price": 36000,
+            "quantity": 1,
+            "total_price": 36000
+        },
+        {
+            "product_id": "P006",
+            "product_name": "Air Mineral 1.5L (6pcs)",
+            "unit_price": 30000,
+            "quantity": 1,
+            "total_price": 30000
+        },
+        {
+            "product_id": "P005",
+            "product_name": "Apel Washington (500g)",
+            "unit_price": 25000,
+            "quantity": 1,
+            "total_price": 25000
+        },
+        {
+            "product_id": "P003",
+            "product_name": "Telur Ayam Omega (10s)",
+            "unit_price": 28000,
+            "quantity": 1,
+            "total_price": 28000
+        },
+        {
+            "product_id": "P001",
+            "product_name": "Susu Fresh Milk 1L",
+            "unit_price": 22000,
+            "quantity": 1,
+            "total_price": 22000
+        }
     ],
-    "media": {
-      "logo_fail": "logo_warisan.jpg",
-      "gambar_kedai_fail": [
-        "kedai_hadapan.jpg",
-        "ruang_makan.jpg"
-      ]
+    "summary": {
+        "total_items": 6,
+        "delivery_fee": 5000,
+        "grand_total": 164000
     }
-  }
 }
