@@ -1,63 +1,21 @@
 {
-    "order_id": "TM-445197",
-    "platform": "Talabat Mart",
-    "order_timestamp": "2026-08-09T14:26:03.347Z",
-    "customer": {
-        "full_name": "Ahmad Fauzi",
-        "phone_number": "+6281234567890",
-        "delivery_address": "Jl. Sudirman No. 45, Jakarta Selatan"
-    },
-    "payment": {
-        "method": "Credit Card",
-        "status": "Pending"
-    },
-    "order_items": [
-        {
-            "product_id": "P002",
-            "product_name": "Roti Tawar Gandum",
-            "unit_price": 18000,
-            "quantity": 1,
-            "total_price": 18000
-        },
-        {
-            "product_id": "P004",
-            "product_name": "Minyak Goreng 2L",
-            "unit_price": 36000,
-            "quantity": 1,
-            "total_price": 36000
-        },
-        {
-            "product_id": "P006",
-            "product_name": "Air Mineral 1.5L (6pcs)",
-            "unit_price": 30000,
-            "quantity": 1,
-            "total_price": 30000
-        },
-        {
-            "product_id": "P005",
-            "product_name": "Apel Washington (500g)",
-            "unit_price": 25000,
-            "quantity": 1,
-            "total_price": 25000
-        },
-        {
-            "product_id": "P003",
-            "product_name": "Telur Ayam Omega (10s)",
-            "unit_price": 28000,
-            "quantity": 1,
-            "total_price": 28000
-        },
-        {
-            "product_id": "P001",
-            "product_name": "Susu Fresh Milk 1L",
-            "unit_price": 22000,
-            "quantity": 1,
-            "total_price": 22000
-        }
-    ],
-    "summary": {
-        "total_items": 6,
-        "delivery_fee": 5000,
-        "grand_total": 164000
-    }
+  "restaurant_id": "RESTO_CAIRO_01",
+  "owner_info": {
+    "owner_name": "Chef Ibrahim",
+    "email": "ibrahim.malay@cairofoods.eg",
+    "phone_number": "+201012345678"
+  },
+  "restaurant_details": {
+    "name": "Warong Melayu Mesir",
+    "cuisine": "Malaysian Authentic",
+    "address": "Nasr City, Cairo, Egypt",
+    "operating_status": "OPEN",
+    "opening_hours": "11:00 AM - 10:00 PM"
+  },
+  "metrics": {
+    "total_active_menu": 15,
+    "pending_orders": 3,
+    "today_revenue_egp": 2450.50,
+    "rating": 4.8
+  }
 }
