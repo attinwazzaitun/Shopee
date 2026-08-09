@@ -2,7 +2,7 @@
   {
     "produk": {
       "nama": "Contoh Nama Barang",
-      "harga": 450.00,
+      "harga": 450,
       "mata_wang": "EGP",
       "tarikh_pembelian": "2026-08-09",
       "lokasi_google_map": "https://maps.app.goo.gl/contoh_pautan_lokasi",
