@@ -1,18 +1,8 @@
 {
   "settings": {
     "admin_phone": "+201550290431",
-    "admin_bank_details": "Maybank / CIB Egypt - 1234567890 (Nama Anda)"
+    "admin_bank_details": "CIB / Vodafone Cash: XXX"
   },
-  "vendors": [
-    {
-      "id": "kedai_nasi_kak_cik",
-      "name": "Nasi Kukus Kak Chik Hayyu Sabi'",
-      "service_type": "both", 
-      "bank_info": "CIB Egypt: 10002345678",
-      "menu": [
-        { "id": "m1", "name": "Nasi Kukus Ayam Berempah", "price": 50, "image": "https://via.placeholder.com/150" }
-      ]
-    }
-  ],
+  "vendors": [],
   "orders": []
 }
