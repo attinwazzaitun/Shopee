@@ -1,0 +1,72 @@
+{
+  "restaurant_id": "RESTO_CAIRO_01",
+  "owner_info": {
+    "owner_name": "Chef Ibrahim",
+    "email": "ibrahim.malay@cairofoods.eg",
+    "phone_number": "+201012345678"
+  },
+  "restaurant_details": {
+    "name": "Warong Melayu Mesir",
+    "cuisine": "Malaysian Authentic",
+    "address": "Nasr City, Cairo, Egypt",
+    "operating_status": "OPEN",
+    "opening_hours": "11:00 AM - 10:00 PM"
+  },
+  "metrics": {
+    "total_active_menu": 15,
+    "pending_orders": 3,
+    "today_revenue_egp": 2450.50,
+    "rating": 4.8
+  }
+}
+
+{
+  "platform_info": {
+    "app_name": "Cita Rasa Malay Egypt",
+    "version": "2.4.1",
+    "admin_super_user": "Admin Utama",
+    "last_system_update": "2026-06-06T10:00:00Z"
+  },
+  "platform_summary": {
+    "total_registered_restaurants": 12,
+    "total_active_users": 3420,
+    "total_transactions_today": 128,
+    "platform_revenue_commission_egp": 5120.00
+  },
+  "system_status": {
+    "server_health": "OPTIMAL",
+    "payment_gateway": "CONNECTED",
+    "delivery_partner_status": "ACTIVE"
+  }
+}
+
+{
+  "restaurant_id": "RESTO_CAIRO_01",
+  "menu_category": "Main Course",
+  "items": [
+    {
+      "item_id": "MENU_001",
+      "name": "Nasi Lemak Special Ayam Goreng Berempah",
+      "description": "Nasi santan harum disajikan dengan ayam goreng rempah, ikan bilis, kacang, timun, telur rebus, dan sambal tumis asli.",
+      "price_egp": 120.00,
+      "is_available": true,
+      "spicy_level": 2
+    },
+    {
+      "item_id": "MENU_002",
+      "name": "Mee Goreng Mamak",
+      "description": "Mi kuning digoreng dengan bumbu khas mamak, tahu, kentang, tauge, dan telur.",
+      "price_egp": 95.50,
+      "is_available": true,
+      "spicy_level": 1
+    },
+    {
+      "item_id": "MENU_003",
+      "name": "Teh Tarik",
+      "description": "Minuman teh hitam susu manis khas Malaysia yang ditarik berbusa.",
+      "price_egp": 35.00,
+      "is_available": true,
+      "spicy_level": 0
+    }
+  ]
+}
