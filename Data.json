@@ -1,8 +1,52 @@
 {
-  "settings": {
-    "admin_phone": "+201550290431",
-    "admin_bank_details": "CIB / Vodafone Cash: XXX"
-  },
-  "vendors": [],
-  "orders": []
+  "tambah_kedai": {
+    "maklumat_asas": {
+      "nama_kedai": "Restoran Warisan Melayu",
+      "pemilik": "Ahmad bin Abdullah",
+      "kategori": "Masakan Tradisional Melayu",
+      "telefon": "+20 123 456 7890",
+      "e-mel": "info@warisanmelayuegypt.com"
+    },
+    "lokasi": {
+      "bandar": "Kaherah",
+      "alamat_penuh": "No. 15, Jalan 9, Maadi, Kaherah, Mesir",
+      "koordinat": {
+        "latitud": 29.9602,
+        "longitud": 31.2569
+      }
+    },
+    "operasi": {
+      "hari_bekerja": "Isnin - Ahad",
+      "waktu_buka": "11:00 PG",
+      "waktu_tutup": "10:00 MLM",
+      "status_halal": true
+    },
+    "menu_utama": [
+      {
+        "id_menu": "M001",
+        "nama_hidangan": "Nasi Lemak Special",
+        "harga_egp": 120.00,
+        "deskripsi": "Nasi lemak santan harum dihidangkan bersama sambal bilis, telur rebus, kacang, timun, dan ayam goreng berempah."
+      },
+      {
+        "id_menu": "M002",
+        "nama_hidangan": "Beef Rendang",
+        "harga_egp": 150.00,
+        "deskripsi": "Daging empuk yang dimasak perlahan dengan santan dan rempah ratus tradisional."
+      },
+      {
+        "id_menu": "M003",
+        "nama_hidangan": "Mee Goreng Mamak",
+        "harga_egp": 95.00,
+        "deskripsi": "Mee kuning digoreng bersama tauhu, kentang, tauge, dan sos istimewa."
+      }
+    ],
+    "media": {
+      "logo_fail": "logo_warisan.jpg",
+      "gambar_kedai_fail": [
+        "kedai_hadapan.jpg",
+        "ruang_makan.jpg"
+      ]
+    }
+  }
 }
