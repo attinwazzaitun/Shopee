@@ -1,10 +1,18 @@
-[
-  {
-    "id": 1723123456789,
-    "name": "Contoh: Baju T-Shirt Oversized Lelaki & Wanita",
-    "price": "29.90",
-    "image": "https://i.ibb.co/7X024Y7/placeholder.png",
-    "phone": "601112345678",
-    "password": "MARU12"
-  }
-]
+{
+  "settings": {
+    "admin_phone": "+201550290431",
+    "admin_bank_details": "Maybank / CIB Egypt - 1234567890 (Nama Anda)"
+  },
+  "vendors": [
+    {
+      "id": "kedai_nasi_kak_cik",
+      "name": "Nasi Kukus Kak Chik Hayyu Sabi'",
+      "service_type": "both", 
+      "bank_info": "CIB Egypt: 10002345678",
+      "menu": [
+        { "id": "m1", "name": "Nasi Kukus Ayam Berempah", "price": 50, "image": "https://via.placeholder.com/150" }
+      ]
+    }
+  ],
+  "orders": []
+}
