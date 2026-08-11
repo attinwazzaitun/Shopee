@@ -31,8 +31,8 @@
       "category": "Dairy",
       "price": 35.50,
       "currency": "EGP",
-      "stock_status": "OUT_OF_STOCK",
-      "stock_quantity": 0,
+      "stock_status": "IN_STOCK",
+      "stock_quantity": 50,
       "image_upload": {
         "source": "local",
         "file_path": "C:/Users/Admin/Images/products/fresh_milk_1l.jpg",
