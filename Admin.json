@@ -27,27 +27,6 @@
     },
     "products": [
       {
-        "product_id": "TM-98421",
-        "product_name": "Fresh Milk 2L",
-        "category": "Dairy",
-        "price": 35.5,
-        "currency": "EGP",
-        "stock_status": "IN_STOCK",
-        "stock_quantity": 50,
-        "image_upload": {
-          "source": "local",
-          "file_name": "fresh_milk_1l.jpg",
-          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/fresh_milk_1l.jpg",
-          "format": "JPG"
-        },
-        "additional_details": {
-          "sku": "MILK-FRESH-1L",
-          "is_discounted": false,
-          "discount_price": null,
-          "tax_included": true
-        }
-      },
-      {
         "product_id": "Ty",
         "product_name": "Ayam",
         "category": "Seketul",
