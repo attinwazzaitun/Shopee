@@ -1,0 +1,36 @@
+{
+  "store_info": {
+    "store_name": "Talabat Mart",
+    "currency": "MYR",
+    "delivery_zones": [
+      {
+        "zone_name": "Taushil Hayyu Sabie",
+        "delivery_fee_rm": 10.00
+      },
+      {
+        "zone_name": "Taushil Hayyu Asyir",
+        "delivery_fee_rm": 20.00
+      }
+    ]
+  },
+  "upload_barang_data": {
+    "product_id": "PRD-901",
+    "item_name": "Minyak Masak Alif 5KG",
+    "category": "Barangan Dapur",
+    "price_rm": 31.90,
+    "stock_status": "Available",
+    "system_message": {
+      "status_code": 200,
+      "log_level": "INFO",
+      "text": "Payload upload image item validated successfully against schema and frame constraints."
+    },
+    "image_upload_payload": {
+      "frame_container": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAP//////////////////////////////////////////////////////////////////////////////////////wgALCAABAAEBAREA/8QAFBABAAAAAAAAAAAAAAAAAAAAAP/aAAgBAQABPxA=",
+      "image_format": "base64",
+      "mime_type": "image/jpeg",
+      "file_name": "minyak_masak_alif_framed.jpg",
+      "resolution": "1080x1080",
+      "description": "Gambar fizikal barangan yang dimuat naik terus oleh pengguna lengkap di dalam bingkai paparan sistem."
+    }
+  }
+}
