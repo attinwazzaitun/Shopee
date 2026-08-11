@@ -69,6 +69,17 @@
           "discount_price": null,
           "tax_included": true
         }
+      },
+      {
+        "product_id": "Yy",
+        "product_name": "Yy",
+        "category": "Yy",
+        "price": 333,
+        "stock_quantity": 333,
+        "stock_status": "IN_STOCK",
+        "additional_details": {
+          "sku": "Yy"
+        }
       }
     ]
   }
