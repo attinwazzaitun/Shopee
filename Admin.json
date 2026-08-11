@@ -37,6 +37,7 @@
         "image_upload": {
           "source": "local",
           "file_name": "fresh_milk_1l.jpg",
+          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/fresh_milk_1l.jpg",
           "format": "JPG"
         },
         "additional_details": {
@@ -57,6 +58,7 @@
         "image_upload": {
           "source": "upload",
           "file_name": "76630.jpg",
+          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/76630.jpg",
           "format": "JPG"
         },
         "additional_details": {
@@ -77,6 +79,7 @@
         "image_upload": {
           "source": "default",
           "file_name": "placeholder.jpg",
+          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/placeholder.jpg",
           "format": "JPG"
         },
         "additional_details": {
@@ -100,6 +103,7 @@
           "source": "upload",
           "file_path": "C:/Users/Admin/Images/products/76630.jpg",
           "file_name": "76630.jpg",
+          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/76630.jpg",
           "file_size_kb": 467,
           "format": "JPG"
         }
@@ -119,6 +123,7 @@
           "source": "upload",
           "file_path": "images/1786453197683_76630.jpg",
           "file_name": "76630.jpg",
+          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/76630.jpg",
           "file_size_kb": 467,
           "format": "JPG"
         }
