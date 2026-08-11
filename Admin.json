@@ -67,26 +67,6 @@
           "discount_price": null,
           "tax_included": true
         }
-      },
-      {
-        "product_id": "Yy",
-        "product_name": "Yy",
-        "category": "Yy",
-        "price": 333,
-        "currency": "EGP",
-        "stock_quantity": 333,
-        "stock_status": "IN_STOCK",
-        "image_upload": {
-          "source": "default",
-          "file_name": "placeholder.jpg",
-          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/placeholder.jpg",
-          "format": "JPG"
-        },
-        "additional_details": {
-          "sku": "Yy",
-          "is_discounted": false,
-          "tax_included": true
-        }
       }
     ]
   }
