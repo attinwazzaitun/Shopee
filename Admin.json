@@ -25,6 +25,29 @@
         "estimated_delivery_time": "30-45 minutes"
       }
     },
-    "products": []
+    "products": [
+      {
+        "product_id": "Y",
+        "product_name": "G",
+        "category": "G",
+        "price": 2,
+        "currency": "EGP",
+        "stock_quantity": 5,
+        "stock_status": "IN_STOCK",
+        "additional_details": {
+          "sku": "Gg",
+          "is_discounted": false,
+          "tax_included": true
+        },
+        "image_upload": {
+          "source": "upload",
+          "file_path": "images/1786453940087_76630.jpg",
+          "file_name": "76630.jpg",
+          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/1786453940087_76630.jpg",
+          "file_size_kb": 467,
+          "format": "JPG"
+        }
+      }
+    ]
   }
 }
