@@ -36,9 +36,7 @@
         "stock_quantity": 50,
         "image_upload": {
           "source": "local",
-          "file_path": "C:/Users/Admin/Images/products/fresh_milk_1l.jpg",
           "file_name": "fresh_milk_1l.jpg",
-          "file_size_kb": 245,
           "format": "JPG"
         },
         "additional_details": {
@@ -58,9 +56,7 @@
         "stock_quantity": 40,
         "image_upload": {
           "source": "upload",
-          "file_path": "C:/Users/Admin/Images/products/76630.jpg",
           "file_name": "76630.jpg",
-          "file_size_kb": 467,
           "format": "JPG"
         },
         "additional_details": {
@@ -75,10 +71,18 @@
         "product_name": "Yy",
         "category": "Yy",
         "price": 333,
+        "currency": "EGP",
         "stock_quantity": 333,
         "stock_status": "IN_STOCK",
+        "image_upload": {
+          "source": "default",
+          "file_name": "placeholder.jpg",
+          "format": "JPG"
+        },
         "additional_details": {
-          "sku": "Yy"
+          "sku": "Yy",
+          "is_discounted": false,
+          "tax_included": true
         }
       }
     ]
