@@ -87,26 +87,6 @@
           "is_discounted": false,
           "tax_included": true
         }
-      },
-      {
-        "product_id": "Bzhs",
-        "product_name": "Hah",
-        "category": "Shhs",
-        "price": 646,
-        "currency": "EGP",
-        "stock_quantity": 46,
-        "stock_status": "IN_STOCK",
-        "additional_details": {
-          "sku": "Bzjz"
-        },
-        "image_upload": {
-          "source": "upload",
-          "file_path": "C:/Users/Admin/Images/products/76630.jpg",
-          "file_name": "76630.jpg",
-          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/76630.jpg",
-          "file_size_kb": 467,
-          "format": "JPG"
-        }
       }
     ]
   }
