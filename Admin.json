@@ -1,36 +1,51 @@
 {
-  "store_info": {
-    "store_name": "Talabat Mart",
-    "currency": "MYR",
-    "delivery_zones": [
-      {
-        "zone_name": "Taushil Hayyu Sabie",
-        "delivery_fee_rm": 10.00
+  "admin_dashboard": {
+    "branch_info": {
+      "branch_name": "Talabat Mart - Al-Tawhid",
+      "location": "Tausil Sabie & 10 Asyir",
+      "delivery_fee": {
+        "tausil_sabie": 10.00,
+        "10_asyir": 20.00
       },
-      {
-        "zone_name": "Taushil Hayyu Asyir",
-        "delivery_fee_rm": 20.00
+      "working_hours": {
+        "status": "OPEN",
+        "opening_time": "08:00 AM",
+        "closing_time": "02:00 AM"
+      },
+      "delivery_schedule": {
+        "available_days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "estimated_delivery_time": "30-45 minutes"
       }
-    ]
-  },
-  "upload_barang_data": {
-    "product_id": "PRD-901",
-    "item_name": "Minyak Masak Alif 5KG",
-    "category": "Barangan Dapur",
-    "price_rm": 31.90,
-    "stock_status": "Available",
-    "system_message": {
-      "status_code": 200,
-      "log_level": "INFO",
-      "text": "Payload upload image item validated successfully against schema and frame constraints."
     },
-    "image_upload_payload": {
-      "frame_container": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAP//////////////////////////////////////////////////////////////////////////////////////wgALCAABAAEBAREA/8QAFBABAAAAAAAAAAAAAAAAAAAAAP/aAAgBAQABPxA=",
-      "image_format": "base64",
-      "mime_type": "image/jpeg",
-      "file_name": "minyak_masak_alif_framed.jpg",
-      "resolution": "1080x1080",
-      "description": "Gambar fizikal barangan yang dimuat naik terus oleh pengguna lengkap di dalam bingkai paparan sistem."
+    "inventory_management": {
+      "product_id": "TM-98421",
+      "product_name": "Fresh Whole Milk 1L",
+      "category": "Dairy",
+      "price": 35.50,
+      "currency": "EGP",
+      "stock_status": "OUT_OF_STOCK",
+      "stock_quantity": 0,
+      "image_upload": {
+        "source": "local",
+        "file_path": "C:/Users/Admin/Images/products/fresh_milk_1l.jpg",
+        "file_name": "fresh_milk_1l.jpg",
+        "file_size_kb": 245,
+        "format": "JPG"
+      },
+      "additional_details": {
+        "sku": "MILK-FRESH-1L",
+        "is_discounted": false,
+        "discount_price": null,
+        "tax_included": true
+      }
     }
   }
 }
