@@ -69,6 +69,17 @@
           "discount_price": null,
           "tax_included": true
         }
+      },
+      {
+        "product_id": "Jaj",
+        "product_name": "Gaya",
+        "category": "Hshs",
+        "price": 646,
+        "stock_quantity": 6,
+        "stock_status": "IN_STOCK",
+        "additional_details": {
+          "sku": "Gz"
+        }
       }
     ]
   }
