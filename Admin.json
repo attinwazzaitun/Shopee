@@ -25,28 +25,6 @@
         "estimated_delivery_time": "30-45 minutes"
       }
     },
-    "products": [
-      {
-        "product_id": "Ty",
-        "product_name": "Ayam",
-        "category": "Seketul",
-        "price": 75,
-        "currency": "EGP",
-        "stock_status": "IN_STOCK",
-        "stock_quantity": 40,
-        "image_upload": {
-          "source": "upload",
-          "file_name": "76630.jpg",
-          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/76630.jpg",
-          "format": "JPG"
-        },
-        "additional_details": {
-          "sku": "Hahah",
-          "is_discounted": false,
-          "discount_price": null,
-          "tax_included": true
-        }
-      }
-    ]
+    "products": []
   }
 }
