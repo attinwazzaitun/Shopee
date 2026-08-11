@@ -107,26 +107,6 @@
           "file_size_kb": 467,
           "format": "JPG"
         }
-      },
-      {
-        "product_id": "نسن",
-        "product_name": "نيني",
-        "category": "وينس",
-        "price": 6464,
-        "currency": "EGP",
-        "stock_quantity": 949,
-        "stock_status": "IN_STOCK",
-        "additional_details": {
-          "sku": "تين"
-        },
-        "image_upload": {
-          "source": "upload",
-          "file_path": "images/1786453197683_76630.jpg",
-          "file_name": "76630.jpg",
-          "url": "https://raw.githubusercontent.com/attinwazzaitun/Shopee/main/images/76630.jpg",
-          "file_size_kb": 467,
-          "format": "JPG"
-        }
       }
     ]
   }
