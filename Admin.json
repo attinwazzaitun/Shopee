@@ -10,7 +10,7 @@
       "working_hours": {
         "status": "OPEN",
         "opening_time": "08:00 AM",
-        "closing_time": "02:00 AM"
+        "closing_time": "02:00 PM"
       },
       "delivery_schedule": {
         "available_days": [
