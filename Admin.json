@@ -4,8 +4,8 @@
       "branch_name": "Talabat Mart - Al-Tawhid",
       "location": "Tausil Sabie & 10 Asyir",
       "delivery_fee": {
-        "tausil_sabie": 10.00,
-        "10_asyir": 20.00
+        "tausil_sabie": 10,
+        "10_asyir": 20
       },
       "working_hours": {
         "status": "OPEN",
@@ -25,27 +25,51 @@
         "estimated_delivery_time": "30-45 minutes"
       }
     },
-    "inventory_management": {
-      "product_id": "TM-98421",
-      "product_name": "Fresh Milk 2L",
-      "category": "Dairy",
-      "price": 35.50,
-      "currency": "EGP",
-      "stock_status": "IN_STOCK",
-      "stock_quantity": 50,
-      "image_upload": {
-        "source": "local",
-        "file_path": "C:/Users/Admin/Images/products/fresh_milk_1l.jpg",
-        "file_name": "fresh_milk_1l.jpg",
-        "file_size_kb": 245,
-        "format": "JPG"
+    "products": [
+      {
+        "product_id": "TM-98421",
+        "product_name": "Fresh Milk 2L",
+        "category": "Dairy",
+        "price": 35.5,
+        "currency": "EGP",
+        "stock_status": "IN_STOCK",
+        "stock_quantity": 50,
+        "image_upload": {
+          "source": "local",
+          "file_path": "C:/Users/Admin/Images/products/fresh_milk_1l.jpg",
+          "file_name": "fresh_milk_1l.jpg",
+          "file_size_kb": 245,
+          "format": "JPG"
+        },
+        "additional_details": {
+          "sku": "MILK-FRESH-1L",
+          "is_discounted": false,
+          "discount_price": null,
+          "tax_included": true
+        }
       },
-      "additional_details": {
-        "sku": "MILK-FRESH-1L",
-        "is_discounted": false,
-        "discount_price": null,
-        "tax_included": true
+      {
+        "product_id": "Ty",
+        "product_name": "Ayam",
+        "category": "Seketul",
+        "price": 75,
+        "currency": "EGP",
+        "stock_status": "IN_STOCK",
+        "stock_quantity": 40,
+        "image_upload": {
+          "source": "upload",
+          "file_path": "C:/Users/Admin/Images/products/76630.jpg",
+          "file_name": "76630.jpg",
+          "file_size_kb": 467,
+          "format": "JPG"
+        },
+        "additional_details": {
+          "sku": "Hahah",
+          "is_discounted": false,
+          "discount_price": null,
+          "tax_included": true
+        }
       }
-    }
+    ]
   }
 }
